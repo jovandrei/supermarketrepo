@@ -11,7 +11,7 @@
 
 <servlet-mapping>
  <servlet-name>newuser</servlet-name>
- <url-pattern>/newuserlogin</url-pattern>
+ <url-pattern>newuserlogin</url-pattern>
 </servlet-mapping>
 
 
